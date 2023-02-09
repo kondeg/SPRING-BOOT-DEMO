@@ -151,3 +151,5 @@ src/front-end/node_modules/yargs/.DS_Store
 src/front-end/node_modules/zone.js/.DS_Store
 src/front-end/.angular/**
 src/front-end/node_modules/**
+src/front-end/.DS_Store
+src/front-end/.DS_Store
