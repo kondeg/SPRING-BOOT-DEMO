@@ -1,10 +1,12 @@
 {
-  "name": "my-app",
+  "name": "full-package-frontend",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "e2e": "ng e2e",
     "start": "ng serve",
     "build": "ng build",
+    "build-prod": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
